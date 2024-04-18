@@ -10,6 +10,7 @@
 	<h2 style="color: blue; font-size: 40px;" align="center">THIS IS NEXUS TOPIC</h2>
 	<h2 style="color: orange; font-size: 40px;" align="center">WAR FILE IS SUCCESSFULLY DEPLOYED</h2>
 	<h2 style="color: green; font-size: 40px;" align="center">we are storing war files in NEXUS server</h2>
+	<h2 style="color: amber; font-size: 40px;" align="center">Successfully completed the deployment through nexus</h2>
         
 	
 	
